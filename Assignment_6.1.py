@@ -1,4 +1,6 @@
-#Import a k
+#Import the random module for random generation of 0 - 99 number integers.
+#Deduction points for inputting letters to avoid cheating the score through continuous restart.
+#Every loop in the while loop will add count an additional 1 value for it to perfectly to be looped 10 times unless you choose to have a grade deduction.
 print("Wrong inputs will result into deductions.")
 import random
 quiz = True
